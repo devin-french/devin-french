@@ -1,6 +1,6 @@
 <h1>Hi, I'm Devin, an <a href="https://linkedin.com/in/devin-french-207baa324/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/devin-french/osticket-prereqs)
