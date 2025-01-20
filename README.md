@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/devin-french/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/devin-french/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devin-french/osTicket-Ticket-Lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring  Active Directory within Azure VMs](https://github.com/devin-french/Configuring-Active-Directory-within-Azure-VMs/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/devin-french/azure-network-protocols)
+ - <b>Microsoft Azure
+  - </b>[installing active directory](https://github.com/devin-french/installing-Active-Directory)
+  -  [Configuring  Active Directory within Azure VMs](https://github.com/devin-french/Configuring-Active-Directory-within-Azure-VMs/blob/main/README.md)
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/devin-french/azure-network-protocols)
 
