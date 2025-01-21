@@ -8,6 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devin-french/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure
   - </b>[installing active directory](https://github.com/devin-french/installing-Active-Directory)
-  -  [Configuring  Active Directory within Azure VMs](https://github.com/devin-french/Configuring-Active-Directory-within-Azure-VMs/blob/main/README.md)
+  -  [Configuring  Active Directory within Azure VMs]
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/devin-french/azure-network-protocols)
 
