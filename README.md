@@ -9,5 +9,5 @@
 - <b>Microsoft Azure
   - </b>[installing active directory](https://github.com/devin-french/installing-Active-Directory)
   -  [Configuring  Active Directory within Azure VMs](https://github.com/devin-french/Configuring-Active-Directory-Using-Azure/blob/main/README.md)
-  -   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/devin-french/azure-network-protocols)
+  -   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/devin-french/network-file-shares-and-permissions)
 
