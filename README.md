@@ -2,12 +2,11 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/devin-french/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/devin-french/osTicket-Post-Installation-Configuration)
+- <b>Help Desk Ticketing System</b>
+  - [Password Reset and Account Recovery](https://github.com/devin-french/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devin-french/osTicket-Ticket-Lifecycle)
-- <b>Microsoft Azure
-  - </b>[installing active directory](https://github.com/devin-french/installing-Active-Directory)
-  -  [Configuring  Active Directory within Azure VMs](https://github.com/devin-french/Configuring-Active-Directory-Using-Azure/blob/main/README.md)
-  -   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/devin-french/network-file-shares-and-permissions)
+- <b>Active Directory
+  - </b>[Creating Users And Assingning Permissions](https://github.com/devin-french/installing-Active-Directory)
+  -  </b>[Active Directry IAM Lab](https://github.com/devin-french/ACTIVE-DIRECTORY-IAM-LAB)
+  -   [Network Security Groups and Network File Shares](https://github.com/devin-french/network-file-shares-and-permissions)
 
