@@ -7,6 +7,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devin-french/osTicket-Ticket-Lifecycle)
 - <b>Active Directory
   - </b>[Installing Active Directory](https://github.com/devin-french/installing-Active-Directory)
-  -  </b>[Active Directry IAM (Creating Users And Assigning Permissions)](https://github.com/devin-french/ACTIVE-DIRECTORY-IAM-LAB)
+  -  </b>[Active Directry IAM (User And Account Provissioning)](https://github.com/devin-french/ACTIVE-DIRECTORY-IAM-LAB)
   -   [Network Security Groups and Network File Shares](https://github.com/devin-french/network-file-shares-and-permissions)
 
