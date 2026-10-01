@@ -1,4 +1,13 @@
-<h1>Hi, I'm Devin, an <a href="https://linkedin.com/in/devin-french-207baa324/">IT Professional</a>☺</h1>
+<h4>Hi, I'm Devin, an Entry Level IT Technician building hands on experience in tech support, troubleshooting, system administration, and user management.
+I'm currently working toward transitioning my career into Identity and Access Management (IAM), with a focus on areas such as:
+Identity & Access Management
+ User and account provisioning
+ Authentication & authorization
+ Active Directory & Microsoft Entra ID
+ Access controls and permissions
+Windows administration & troubleshooting
+I'm using GitHub to document my homelab  projects, labs, and my learning journey as I build practical skills 
+
 
 <h2> Information Technology Projects:</h2>
 
