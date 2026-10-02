@@ -12,7 +12,7 @@ I'm using GitHub to document my homelab  projects, labs, and my learning journey
 <h2> Information Technology Projects:</h2>
 
 - <b>Help Desk Ticketing System</b>
-  - [Password Reset and Account Recovery](https://github.com/devin-french/osticket-prereqs)
+  - [Password Reset and Account Recovery](https://github.com/devin-french/PASSWORD-RESET)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/devin-french/osTicket-Ticket-Lifecycle)
 - <b>Active Directory
   - </b>[Installing Active Directory](https://github.com/devin-french/installing-Active-Directory)
