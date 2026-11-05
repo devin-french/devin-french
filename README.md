@@ -1,5 +1,5 @@
 <h4>Hi, I'm Devin, an Entry Level IT Technician building hands on experience in tech support, troubleshooting, system administration, and user management.
-I'm currently working toward transitioning my career into Identity and Access Management (IAM), with a focus on areas such as:
+I'm currently working toward transitioning into Identity and Access Management (IAM), with a focus on areas such as:
 Identity & Access Management
  User and account provisioning
  Authentication & authorization
