@@ -13,7 +13,7 @@ I'm using GitHub to document my homelab  projects, labs, and my learning journey
 
 - <b>Help Desk Ticketing System</b>
   - [Password Reset and Account Recovery](https://github.com/devin-french/PASSWORD-RESET)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/devin-french/osTicket-Ticket-Lifecycle)
+  - [osTicket: help desk incident management](https://github.com/devin-french/osTicket-Help-Desk-Incident-Management)
 - <b>Active Directory
   - </b>[Active Directory- Mover lab](https://github.com/devin-french/Active-Directory-IAM-Mover-Lab)
   -  </b>[Active Directry- Joiner Lab](https://github.com/devin-french/Active-Directory-IAM-Joiner-Lab.)
